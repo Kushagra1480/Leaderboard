@@ -8,4 +8,6 @@ This is a menu driven program with five options:
 4. Snake Leaderboard
 5. Tic Tac Toe
 ## Screenshots
-- **Menu**
+ - ![Menu](https://github.com/Kushagra1480/Leaderboard/blob/main/Screenshots/Menu.jpg "Menu")
+ - ![Snake](https://github.com/Kushagra1480/Leaderboard/blob/main/Screenshots/Snake.jpg "Snake")
+ - ![TicTacToe](https://github.com/Kushagra1480/Leaderboard/blob/main/Screenshots/TIc%20Tac%20Toe.jpg "TacTacToe")
